@@ -1,0 +1,165 @@
+[
+  {
+    "id": "53a5cc78-9be6-49ff-9dd4-4ceefad10559",
+    "createdDate": "2019-06-28T08:41:42.213Z",
+    "modifiedDate": "2019-08-26T08:38:37.623Z",
+    "modifiedByUserName": "DE\\app_qlview",
+    "name": "CRM_DEV_GROUPE",
+    "valueType": "Text",
+    "choiceValues": [
+      "CPV_Change_Owner"
+    ],
+    "objectTypes": [
+      "App",
+      "User"
+    ],
+    "description": "",
+    "privileges": null,
+    "schemaPath": "CustomPropertyDefinition"
+  },
+  {
+    "id": "9e8a6bdb-03f0-40e9-8af6-ba977ab1c22e",
+    "createdDate": "2020-09-18T15:22:32.789Z",
+    "modifiedDate": "2020-09-18T15:22:32.789Z",
+    "modifiedByUserName": "DE\\nabbas",
+    "name": "Duplicate",
+    "valueType": "Text",
+    "choiceValues": [
+      "Duplicate"
+    ],
+    "objectTypes": [
+      "App",
+      "User"
+    ],
+    "description": "",
+    "privileges": null,
+    "schemaPath": "CustomPropertyDefinition"
+  },
+  {
+    "id": "205855d3-fd2c-4d5f-9565-fa291f413a66",
+    "createdDate": "2018-01-24T10:18:00.521Z",
+    "modifiedDate": "2021-02-11T18:27:37.835Z",
+    "modifiedByUserName": "DE\\wmerriri",
+    "name": "user_type",
+    "valueType": "Text",
+    "choiceValues": [
+      "Admin",
+      "Dev",
+      "User"
+    ],
+    "objectTypes": [
+      "Extension",
+      "User"
+    ],
+    "description": null,
+    "privileges": null,
+    "schemaPath": "CustomPropertyDefinition"
+  },
+  {
+    "id": "ace58bb3-a84b-4ad6-8e7e-9204962c2a43",
+    "createdDate": "2021-02-03T15:50:59.172Z",
+    "modifiedDate": "2021-02-11T19:07:34.103Z",
+    "modifiedByUserName": "DE\\wmerriri",
+    "name": "ExtensionVizlib",
+    "valueType": "Text",
+    "choiceValues": [
+      "Vizlib_Library",
+      "Vizlib_Self",
+      "Vizlib_Collaboration"
+    ],
+    "objectTypes": [
+      "Extension",
+      "User"
+    ],
+    "description": "",
+    "privileges": null,
+    "schemaPath": "CustomPropertyDefinition"
+  },
+  {
+    "id": "db3de720-ecdd-49d9-a3e7-ebc766d07d35",
+    "createdDate": "2019-01-24T09:07:52.333Z",
+    "modifiedDate": "2021-02-11T19:11:47.694Z",
+    "modifiedByUserName": "DE\\wmerriri",
+    "name": "ExtensionBundle",
+    "valueType": "Text",
+    "choiceValues": [
+      "Dashboard-bundle",
+      "Visualization-bundle",
+      "Autre"
+    ],
+    "objectTypes": [
+      "Extension"
+    ],
+    "description": "",
+    "privileges": null,
+    "schemaPath": "CustomPropertyDefinition"
+  },
+  {
+    "id": "854408ef-faba-4ab9-9e8a-40c94274150c",
+    "createdDate": "2021-03-22T07:56:07.607Z",
+    "modifiedDate": "2022-03-29T10:00:04.481Z",
+    "modifiedByUserName": "DE\\app_qlview",
+    "name": "User_Stream_Access",
+    "valueType": "Text",
+    "choiceValues": [
+      "Data Developers",
+      "Monitoring Readers",
+      "Finance Users",
+      "Monitoring OPERA"
+    ],
+    "objectTypes": [
+      "Stream",
+      "User"
+    ],
+    "description": "",
+    "privileges": null,
+    "schemaPath": "CustomPropertyDefinition"
+  },
+  {
+    "id": "d4dbd053-4f5e-49f5-b37b-3890c4c4144d",
+    "createdDate": "2018-09-14T13:30:33.995Z",
+    "modifiedDate": "2022-04-14T11:46:08.898Z",
+    "modifiedByUserName": "DE\\souzian",
+    "name": "DE_USER_GROUPE",
+    "valueType": "Text",
+    "choiceValues": [
+      "DE_QVD",
+      "DE_DWH",
+      "DE_USER_SOURCE",
+      "DE_BIG_QUERY",
+      "DE_DS_ACTIVATION_BLACKLIST",
+      "DE_QVD_FORMATION",
+      "DE_JIRA",
+      "DE_MONITORING",
+      "DE_SNOWFLAKE",
+      "DE_WEB_CONNECTOR"
+    ],
+    "objectTypes": [
+      "DataConnection",
+      "User"
+    ],
+    "description": "",
+    "privileges": null,
+    "schemaPath": "CustomPropertyDefinition"
+  },
+  {
+    "id": "64ffb5de-8602-441d-8b8e-3ac9a8f5c9b2",
+    "createdDate": "2022-04-29T08:11:03.835Z",
+    "modifiedDate": "2022-04-29T08:24:49.462Z",
+    "modifiedByUserName": "DE\\souzian",
+    "name": "DE_STREAM_ACCESS",
+    "valueType": "Text",
+    "choiceValues": [
+      "CSS France",
+      "Socle Tech",
+      "Monitoring"
+    ],
+    "objectTypes": [
+      "Stream",
+      "User"
+    ],
+    "description": "Accès aux streams tech / socle / KPI CSS",
+    "privileges": null,
+    "schemaPath": "CustomPropertyDefinition"
+  }
+]
