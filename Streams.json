@@ -1,0 +1,21 @@
+[
+  {
+    "id": "7527d7f9-b178-4ecd-b154-dff10b64ffbf",
+    "createdDate": "2018-06-07T14:51:12.642Z",
+    "modifiedDate": "2018-06-07T14:51:12.642Z",
+    "modifiedByUserName": "DE\\app_qlview",
+    "customProperties": [],
+    "owner": {
+      "id": "8ebecffd-13bc-46e5-b612-15c914a42255",
+      "userId": "app_qlview",
+      "userDirectory": "DE",
+      "userDirectoryConnectorName": "DE",
+      "name": "app_qlview",
+      "privileges": null
+    },
+    "name": "ACTIVATION",
+    "tags": [],
+    "privileges": null,
+    "schemaPath": "Stream"
+  }
+]
