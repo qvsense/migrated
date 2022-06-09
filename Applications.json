@@ -1,45 +1,8 @@
 [
   {
-    "id": "660cc61f-bb9f-4a83-9245-77463cd8a2a4",
-    "createdDate": "2019-09-26T15:34:59.144Z",
-    "modifiedDate": "2022-06-08T08:50:56.031Z",
-    "modifiedByUserName": "INTERNAL\\sa_scheduler",
-    "customProperties": [],
-    "owner": {
-      "id": "edcd4341-34da-4e36-b9e0-a0fbea1f0b72",
-      "userId": "melfouni",
-      "userDirectory": "DE",
-      "userDirectoryConnectorName": "DE",
-      "name": "Malek Elfouni",
-      "privileges": null
-    },
-    "name": "Dashboard Rejets 400",
-    "appId": "",
-    "sourceAppId": "00000000-0000-0000-0000-000000000000",
-    "targetAppId": "00000000-0000-0000-0000-000000000000",
-    "publishTime": "2020-01-17T14:19:46.889Z",
-    "published": true,
-    "tags": [],
-    "description": "",
-    "stream": {
-      "id": "7527d7f9-b178-4ecd-b154-dff10b64ffbf",
-      "name": "ACTIVATION",
-      "privileges": null
-    },
-    "fileSize": 33218112,
-    "lastReloadTime": "2022-06-08T08:50:52.536Z",
-    "thumbnail": "/appcontent/660cc61f-bb9f-4a83-9245-77463cd8a2a4/logo-total-direct-energie.png",
-    "savedInProductVersion": "12.878.6",
-    "migrationHash": "98d482c3f964dccf69cbfb9a00e0c048ea6eb221",
-    "dynamicColor": "",
-    "availabilityStatus": 5,
-    "privileges": null,
-    "schemaPath": "App"
-  },
-  {
     "id": "ff6dd5b3-d271-41b8-9f96-e6696abd832f",
     "createdDate": "2020-04-02T08:23:06.322Z",
-    "modifiedDate": "2022-06-08T12:04:34.784Z",
+    "modifiedDate": "2022-06-09T12:04:31.893Z",
     "modifiedByUserName": "INTERNAL\\sa_scheduler",
     "customProperties": [],
     "owner": {
@@ -63,8 +26,8 @@
       "name": "ACTIVATION",
       "privileges": null
     },
-    "fileSize": 111394027,
-    "lastReloadTime": "2022-06-08T12:04:30.036Z",
+    "fileSize": 111541942,
+    "lastReloadTime": "2022-06-09T12:04:27.269Z",
     "thumbnail": "/appcontent/ff6dd5b3-d271-41b8-9f96-e6696abd832f/PDL_Francovie.png",
     "savedInProductVersion": "12.878.6",
     "migrationHash": "98d482c3f964dccf69cbfb9a00e0c048ea6eb221",
@@ -76,7 +39,7 @@
   {
     "id": "ff967e12-e006-4335-9eb0-4917098bba26",
     "createdDate": "2022-01-25T17:09:44.675Z",
-    "modifiedDate": "2022-06-07T14:06:45.654Z",
+    "modifiedDate": "2022-06-08T14:12:01.172Z",
     "modifiedByUserName": "INTERNAL\\sa_scheduler",
     "customProperties": [],
     "owner": {
@@ -100,8 +63,8 @@
       "name": "ACTIVATION",
       "privileges": null
     },
-    "fileSize": 4022306293,
-    "lastReloadTime": "2022-06-07T14:04:57.865Z",
+    "fileSize": 4017716548,
+    "lastReloadTime": "2022-06-08T14:10:08.108Z",
     "thumbnail": "",
     "savedInProductVersion": "12.878.6",
     "migrationHash": "504d4e39a7133ee172fbe29aa58348b1e4054149",
@@ -111,9 +74,46 @@
     "schemaPath": "App"
   },
   {
+    "id": "ba374a60-4b1e-427d-926f-72441f7c6f09",
+    "createdDate": "2019-10-17T14:00:34.888Z",
+    "modifiedDate": "2022-06-09T08:40:56.839Z",
+    "modifiedByUserName": "INTERNAL\\sa_scheduler",
+    "customProperties": [],
+    "owner": {
+      "id": "edcd4341-34da-4e36-b9e0-a0fbea1f0b72",
+      "userId": "melfouni",
+      "userDirectory": "DE",
+      "userDirectoryConnectorName": "DE",
+      "name": "Malek Elfouni",
+      "privileges": null
+    },
+    "name": "Dashboard Black List",
+    "appId": "",
+    "sourceAppId": "00000000-0000-0000-0000-000000000000",
+    "targetAppId": "00000000-0000-0000-0000-000000000000",
+    "publishTime": "2020-11-26T10:01:32.238Z",
+    "published": true,
+    "tags": [],
+    "description": "",
+    "stream": {
+      "id": "7527d7f9-b178-4ecd-b154-dff10b64ffbf",
+      "name": "ACTIVATION",
+      "privileges": null
+    },
+    "fileSize": 178283032,
+    "lastReloadTime": "2022-06-09T08:40:48.574Z",
+    "thumbnail": "/appcontent/ba374a60-4b1e-427d-926f-72441f7c6f09/Blacklist.png",
+    "savedInProductVersion": "12.878.6",
+    "migrationHash": "98d482c3f964dccf69cbfb9a00e0c048ea6eb221",
+    "dynamicColor": "",
+    "availabilityStatus": 5,
+    "privileges": null,
+    "schemaPath": "App"
+  },
+  {
     "id": "a1ec75a9-d6b4-41da-8d48-1c6c1730482c",
     "createdDate": "2020-08-28T09:35:02.566Z",
-    "modifiedDate": "2022-06-08T11:19:52.857Z",
+    "modifiedDate": "2022-06-09T11:13:39.311Z",
     "modifiedByUserName": "INTERNAL\\sa_scheduler",
     "customProperties": [],
     "owner": {
@@ -137,8 +137,8 @@
       "name": "ACTIVATION",
       "privileges": null
     },
-    "fileSize": 847868746,
-    "lastReloadTime": "2022-06-08T11:19:34.249Z",
+    "fileSize": 859749868,
+    "lastReloadTime": "2022-06-09T11:13:22.629Z",
     "thumbnail": "/appcontent/a1ec75a9-d6b4-41da-8d48-1c6c1730482c/bill_2.png",
     "savedInProductVersion": "12.878.6",
     "migrationHash": "504d4e39a7133ee172fbe29aa58348b1e4054149",
@@ -185,9 +185,9 @@
     "schemaPath": "App"
   },
   {
-    "id": "ba374a60-4b1e-427d-926f-72441f7c6f09",
-    "createdDate": "2019-10-17T14:00:34.888Z",
-    "modifiedDate": "2022-06-08T08:41:37.190Z",
+    "id": "660cc61f-bb9f-4a83-9245-77463cd8a2a4",
+    "createdDate": "2019-09-26T15:34:59.144Z",
+    "modifiedDate": "2022-06-09T08:40:37.319Z",
     "modifiedByUserName": "INTERNAL\\sa_scheduler",
     "customProperties": [],
     "owner": {
@@ -198,11 +198,11 @@
       "name": "Malek Elfouni",
       "privileges": null
     },
-    "name": "Dashboard Black List",
+    "name": "Dashboard Rejets 400",
     "appId": "",
     "sourceAppId": "00000000-0000-0000-0000-000000000000",
     "targetAppId": "00000000-0000-0000-0000-000000000000",
-    "publishTime": "2020-11-26T10:01:32.238Z",
+    "publishTime": "2020-01-17T14:19:46.889Z",
     "published": true,
     "tags": [],
     "description": "",
@@ -211,9 +211,9 @@
       "name": "ACTIVATION",
       "privileges": null
     },
-    "fileSize": 177652341,
-    "lastReloadTime": "2022-06-08T08:41:28.471Z",
-    "thumbnail": "/appcontent/ba374a60-4b1e-427d-926f-72441f7c6f09/Blacklist.png",
+    "fileSize": 33274573,
+    "lastReloadTime": "2022-06-09T08:40:35.032Z",
+    "thumbnail": "/appcontent/660cc61f-bb9f-4a83-9245-77463cd8a2a4/logo-total-direct-energie.png",
     "savedInProductVersion": "12.878.6",
     "migrationHash": "98d482c3f964dccf69cbfb9a00e0c048ea6eb221",
     "dynamicColor": "",
@@ -222,46 +222,9 @@
     "schemaPath": "App"
   },
   {
-    "id": "7cce3dad-d1a4-4d38-801e-3316bb642547",
-    "createdDate": "2021-06-09T09:00:34.891Z",
-    "modifiedDate": "2022-06-08T01:16:41.595Z",
-    "modifiedByUserName": "INTERNAL\\sa_scheduler",
-    "customProperties": [],
-    "owner": {
-      "id": "edcd4341-34da-4e36-b9e0-a0fbea1f0b72",
-      "userId": "melfouni",
-      "userDirectory": "DE",
-      "userDirectoryConnectorName": "DE",
-      "name": "Malek Elfouni",
-      "privileges": null
-    },
-    "name": "JIRA FACTURATION",
-    "appId": "",
-    "sourceAppId": "00000000-0000-0000-0000-000000000000",
-    "targetAppId": "0c21e312-892a-4d75-93b4-6c4a4962f6a2",
-    "publishTime": "2022-04-21T14:02:24.101Z",
-    "published": true,
-    "tags": [],
-    "description": "",
-    "stream": {
-      "id": "7527d7f9-b178-4ecd-b154-dff10b64ffbf",
-      "name": "ACTIVATION",
-      "privileges": null
-    },
-    "fileSize": 11777145,
-    "lastReloadTime": "2022-06-08T01:16:40.581Z",
-    "thumbnail": "/appcontent/7cce3dad-d1a4-4d38-801e-3316bb642547/jsw-header-illustrations-v3.png",
-    "savedInProductVersion": "12.878.6",
-    "migrationHash": "504d4e39a7133ee172fbe29aa58348b1e4054149",
-    "dynamicColor": "hsla(202,18%,43%,1)",
-    "availabilityStatus": 1,
-    "privileges": null,
-    "schemaPath": "App"
-  },
-  {
     "id": "95caccd7-cde0-438e-9401-fe8be63e48bf",
     "createdDate": "2022-03-14T05:57:54.798Z",
-    "modifiedDate": "2022-06-08T09:24:21.660Z",
+    "modifiedDate": "2022-06-09T09:26:48.433Z",
     "modifiedByUserName": "INTERNAL\\sa_scheduler",
     "customProperties": [],
     "owner": {
@@ -285,12 +248,49 @@
       "name": "ACTIVATION",
       "privileges": null
     },
-    "fileSize": 216762877,
-    "lastReloadTime": "2022-06-08T09:24:00.211Z",
+    "fileSize": 197077830,
+    "lastReloadTime": "2022-06-09T09:26:28.402Z",
     "thumbnail": "/appcontent/95caccd7-cde0-438e-9401-fe8be63e48bf/Flux.png",
     "savedInProductVersion": "12.878.6",
     "migrationHash": "504d4e39a7133ee172fbe29aa58348b1e4054149",
     "dynamicColor": "hsla(192,18%,43%,1)",
+    "availabilityStatus": 1,
+    "privileges": null,
+    "schemaPath": "App"
+  },
+  {
+    "id": "7cce3dad-d1a4-4d38-801e-3316bb642547",
+    "createdDate": "2021-06-09T09:00:34.891Z",
+    "modifiedDate": "2022-06-09T01:12:53.169Z",
+    "modifiedByUserName": "INTERNAL\\sa_scheduler",
+    "customProperties": [],
+    "owner": {
+      "id": "edcd4341-34da-4e36-b9e0-a0fbea1f0b72",
+      "userId": "melfouni",
+      "userDirectory": "DE",
+      "userDirectoryConnectorName": "DE",
+      "name": "Malek Elfouni",
+      "privileges": null
+    },
+    "name": "JIRA FACTURATION",
+    "appId": "",
+    "sourceAppId": "00000000-0000-0000-0000-000000000000",
+    "targetAppId": "0c21e312-892a-4d75-93b4-6c4a4962f6a2",
+    "publishTime": "2022-04-21T14:02:24.101Z",
+    "published": true,
+    "tags": [],
+    "description": "",
+    "stream": {
+      "id": "7527d7f9-b178-4ecd-b154-dff10b64ffbf",
+      "name": "ACTIVATION",
+      "privileges": null
+    },
+    "fileSize": 11009094,
+    "lastReloadTime": "2022-06-09T01:12:52.078Z",
+    "thumbnail": "/appcontent/7cce3dad-d1a4-4d38-801e-3316bb642547/jsw-header-illustrations-v3.png",
+    "savedInProductVersion": "12.878.6",
+    "migrationHash": "504d4e39a7133ee172fbe29aa58348b1e4054149",
+    "dynamicColor": "hsla(202,18%,43%,1)",
     "availabilityStatus": 1,
     "privileges": null,
     "schemaPath": "App"
