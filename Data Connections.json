@@ -1,0 +1,391 @@
+[
+  {
+    "id": "47297ea4-0166-42d7-9923-b8bb532c0ae6",
+    "createdDate": "2021-01-08T10:34:57.148Z",
+    "modifiedDate": "2021-01-15T23:33:58.181Z",
+    "modifiedByUserName": "DE\\wmerriri",
+    "customProperties": [],
+    "owner": {
+      "id": "a83b5e11-c087-4e46-ab49-48cd6af53238",
+      "userId": "wmerriri",
+      "userDirectory": "DE",
+      "userDirectoryConnectorName": "DE",
+      "name": "Wael Merriri",
+      "privileges": null
+    },
+    "name": "REST_JIRA_SDI (de_wmerriri)",
+    "connectionstring": "CUSTOM CONNECT TO \"provider=QvRestConnector.exe;url=http://localhost:5555/data?connectorID%2JIRAConnector&table%2IssuesAsRawXml&projectIdOrKey%2SDI&createdAfter%201-12-2020&appID%2;timeout=60;method=GET;httpProtocol=1.1;isKeepAlive=true;bodyEncoding=UTF-8;sendExpect100Continue=true;autoDetectResponseType=true;checkResponseTypeOnTestConnection=true;keyGenerationStrategy=0;authSchema=anonymous;skipServerCertificateValidation=false;useCertificate=No;certificateStoreLocation=LocalMachine;certificateStoreName=My;addMissingQueryParametersToFinalRequest=false;PaginationType=None;allowResponseHeaders=false;allowHttpsOnly=false;isCookieContainerEnabled=false;useProxy=false;proxyBypassOnLocal=false;proxyUseDefaultCredentials=true;\"",
+    "type": "QvRestConnector.exe",
+    "engineObjectId": "47297ea4-0166-42d7-9923-b8bb532c0ae6",
+    "username": "",
+    "logOn": 0,
+    "architecture": 0,
+    "tags": [],
+    "privileges": null,
+    "schemaPath": "DataConnection"
+  },
+  {
+    "id": "0192cd73-ea31-4504-81fa-c0a1136536d5",
+    "createdDate": "2021-05-09T12:03:01.505Z",
+    "modifiedDate": "2021-09-27T16:09:50.098Z",
+    "modifiedByUserName": "DE\\wmerriri",
+    "customProperties": [
+      {
+        "id": "1e2353d2-9c6b-407f-a590-0d3490c3c61a",
+        "createdDate": "2021-09-27T16:09:50.098Z",
+        "modifiedDate": "2021-09-27T16:09:50.098Z",
+        "modifiedByUserName": "DE\\wmerriri",
+        "value": "DE_JIRA",
+        "definition": {
+          "id": "d4dbd053-4f5e-49f5-b37b-3890c4c4144d",
+          "name": "DE_USER_GROUPE",
+          "valueType": "Text",
+          "choiceValues": [
+            "DE_QVD",
+            "DE_DWH",
+            "DE_USER_SOURCE",
+            "DE_BIG_QUERY",
+            "DE_DS_ACTIVATION_BLACKLIST",
+            "DE_QVD_FORMATION",
+            "DE_JIRA",
+            "DE_MONITORING",
+            "DE_SNOWFLAKE",
+            "DE_WEB_CONNECTOR"
+          ],
+          "privileges": null
+        },
+        "schemaPath": "CustomPropertyValue"
+      }
+    ],
+    "owner": {
+      "id": "a83b5e11-c087-4e46-ab49-48cd6af53238",
+      "userId": "wmerriri",
+      "userDirectory": "DE",
+      "userDirectoryConnectorName": "DE",
+      "name": "Wael Merriri",
+      "privileges": null
+    },
+    "name": "REST_JIRA_SCB (de_wmerriri)",
+    "connectionstring": "CUSTOM CONNECT TO \"provider=QvRestConnector.exe;url=http://localhost:5555/data?connectorID%2JIRAConnector&table%2IssuesAsRawXml&projectIdOrKey%2SCB&createdAfter%204-01-2021&appID%2;timeout=30;method=GET;httpProtocol=1.1;isKeepAlive=true;bodyEncoding=UTF-8;sendExpect100Continue=true;autoDetectResponseType=true;checkResponseTypeOnTestConnection=true;keyGenerationStrategy=0;authSchema=anonymous;skipServerCertificateValidation=false;useCertificate=No;certificateStoreLocation=LocalMachine;certificateStoreName=My;addMissingQueryParametersToFinalRequest=false;PaginationType=None;allowResponseHeaders=false;allowHttpsOnly=false;isCookieContainerEnabled=false;useProxy=false;proxyBypassOnLocal=false;proxyUseDefaultCredentials=true;\"",
+    "type": "QvRestConnector.exe",
+    "engineObjectId": "0192cd73-ea31-4504-81fa-c0a1136536d5",
+    "username": "",
+    "logOn": 0,
+    "architecture": 0,
+    "tags": [],
+    "privileges": null,
+    "schemaPath": "DataConnection"
+  },
+  {
+    "id": "c35c384d-3138-4159-b3b9-bb8324767241",
+    "createdDate": "2021-04-27T18:27:01.267Z",
+    "modifiedDate": "2021-09-27T16:09:41.456Z",
+    "modifiedByUserName": "DE\\wmerriri",
+    "customProperties": [
+      {
+        "id": "9bc29fc3-b7ef-40d7-b09f-aeb07d5025ad",
+        "createdDate": "2021-09-27T16:09:41.456Z",
+        "modifiedDate": "2021-09-27T16:09:41.456Z",
+        "modifiedByUserName": "DE\\wmerriri",
+        "value": "DE_JIRA",
+        "definition": {
+          "id": "d4dbd053-4f5e-49f5-b37b-3890c4c4144d",
+          "name": "DE_USER_GROUPE",
+          "valueType": "Text",
+          "choiceValues": [
+            "DE_QVD",
+            "DE_DWH",
+            "DE_USER_SOURCE",
+            "DE_BIG_QUERY",
+            "DE_DS_ACTIVATION_BLACKLIST",
+            "DE_QVD_FORMATION",
+            "DE_JIRA",
+            "DE_MONITORING",
+            "DE_SNOWFLAKE",
+            "DE_WEB_CONNECTOR"
+          ],
+          "privileges": null
+        },
+        "schemaPath": "CustomPropertyValue"
+      }
+    ],
+    "owner": {
+      "id": "a83b5e11-c087-4e46-ab49-48cd6af53238",
+      "userId": "wmerriri",
+      "userDirectory": "DE",
+      "userDirectoryConnectorName": "DE",
+      "name": "Wael Merriri",
+      "privileges": null
+    },
+    "name": "REST_JIRA_PHO (de_wmerriri)",
+    "connectionstring": "CUSTOM CONNECT TO \"provider=QvRestConnector.exe;url=http://localhost:5555/data?connectorID%2JIRAConnector&table%2IssuesAsRawXml&projectIdOrKey%2PHO&createdAfter%204-01-2021&appID%2;timeout=30;method=GET;httpProtocol=1.1;isKeepAlive=true;bodyEncoding=UTF-8;sendExpect100Continue=true;autoDetectResponseType=true;checkResponseTypeOnTestConnection=true;keyGenerationStrategy=0;authSchema=anonymous;skipServerCertificateValidation=false;useCertificate=No;certificateStoreLocation=LocalMachine;certificateStoreName=My;addMissingQueryParametersToFinalRequest=false;PaginationType=None;allowResponseHeaders=false;allowHttpsOnly=false;isCookieContainerEnabled=false;useProxy=false;proxyBypassOnLocal=false;proxyUseDefaultCredentials=true;\"",
+    "type": "QvRestConnector.exe",
+    "engineObjectId": "c35c384d-3138-4159-b3b9-bb8324767241",
+    "username": "",
+    "logOn": 0,
+    "architecture": 0,
+    "tags": [],
+    "privileges": null,
+    "schemaPath": "DataConnection"
+  },
+  {
+    "id": "c5be7acc-71dc-4f44-b875-e39460254ce0",
+    "createdDate": "2021-04-12T11:24:34.262Z",
+    "modifiedDate": "2021-09-27T16:09:30.897Z",
+    "modifiedByUserName": "DE\\wmerriri",
+    "customProperties": [
+      {
+        "id": "cdc07835-8d2a-4426-959e-f1b52bc0060f",
+        "createdDate": "2021-09-27T16:09:30.897Z",
+        "modifiedDate": "2021-09-27T16:09:30.897Z",
+        "modifiedByUserName": "DE\\wmerriri",
+        "value": "DE_JIRA",
+        "definition": {
+          "id": "d4dbd053-4f5e-49f5-b37b-3890c4c4144d",
+          "name": "DE_USER_GROUPE",
+          "valueType": "Text",
+          "choiceValues": [
+            "DE_QVD",
+            "DE_DWH",
+            "DE_USER_SOURCE",
+            "DE_BIG_QUERY",
+            "DE_DS_ACTIVATION_BLACKLIST",
+            "DE_QVD_FORMATION",
+            "DE_JIRA",
+            "DE_MONITORING",
+            "DE_SNOWFLAKE",
+            "DE_WEB_CONNECTOR"
+          ],
+          "privileges": null
+        },
+        "schemaPath": "CustomPropertyValue"
+      }
+    ],
+    "owner": {
+      "id": "a83b5e11-c087-4e46-ab49-48cd6af53238",
+      "userId": "wmerriri",
+      "userDirectory": "DE",
+      "userDirectoryConnectorName": "DE",
+      "name": "Wael Merriri",
+      "privileges": null
+    },
+    "name": "REST_JIRA_PGS (de_wmerriri)",
+    "connectionstring": "CUSTOM CONNECT TO \"provider=QvRestConnector.exe;url=http://localhost:5555/data?connectorID%2JIRAConnector&table%2IssuesAsRawXml&projectIdOrKey%2PGS&createdAfter%204-01-2021&appID%2;timeout=30;method=GET;httpProtocol=1.1;isKeepAlive=true;bodyEncoding=UTF-8;sendExpect100Continue=true;autoDetectResponseType=true;checkResponseTypeOnTestConnection=true;keyGenerationStrategy=0;authSchema=anonymous;skipServerCertificateValidation=false;useCertificate=No;certificateStoreLocation=LocalMachine;certificateStoreName=My;addMissingQueryParametersToFinalRequest=false;PaginationType=None;allowResponseHeaders=false;allowHttpsOnly=false;isCookieContainerEnabled=false;useProxy=false;proxyBypassOnLocal=false;proxyUseDefaultCredentials=true;\"",
+    "type": "QvRestConnector.exe",
+    "engineObjectId": "c5be7acc-71dc-4f44-b875-e39460254ce0",
+    "username": "",
+    "logOn": 0,
+    "architecture": 0,
+    "tags": [],
+    "privileges": null,
+    "schemaPath": "DataConnection"
+  },
+  {
+    "id": "7820414c-a105-4756-9fdc-541fd467eb3a",
+    "createdDate": "2021-05-09T11:54:05.135Z",
+    "modifiedDate": "2021-09-27T16:09:20.534Z",
+    "modifiedByUserName": "DE\\wmerriri",
+    "customProperties": [
+      {
+        "id": "311fb419-96ba-49f2-911f-155e4a20a8f2",
+        "createdDate": "2021-09-27T16:09:20.534Z",
+        "modifiedDate": "2021-09-27T16:09:20.534Z",
+        "modifiedByUserName": "DE\\wmerriri",
+        "value": "DE_JIRA",
+        "definition": {
+          "id": "d4dbd053-4f5e-49f5-b37b-3890c4c4144d",
+          "name": "DE_USER_GROUPE",
+          "valueType": "Text",
+          "choiceValues": [
+            "DE_QVD",
+            "DE_DWH",
+            "DE_USER_SOURCE",
+            "DE_BIG_QUERY",
+            "DE_DS_ACTIVATION_BLACKLIST",
+            "DE_QVD_FORMATION",
+            "DE_JIRA",
+            "DE_MONITORING",
+            "DE_SNOWFLAKE",
+            "DE_WEB_CONNECTOR"
+          ],
+          "privileges": null
+        },
+        "schemaPath": "CustomPropertyValue"
+      }
+    ],
+    "owner": {
+      "id": "a83b5e11-c087-4e46-ab49-48cd6af53238",
+      "userId": "wmerriri",
+      "userDirectory": "DE",
+      "userDirectoryConnectorName": "DE",
+      "name": "Wael Merriri",
+      "privileges": null
+    },
+    "name": "REST_JIRA_PAP (de_wmerriri)",
+    "connectionstring": "CUSTOM CONNECT TO \"provider=QvRestConnector.exe;url=http://localhost:5555/data?connectorID%2JIRAConnector&table%2IssuesAsRawXml&projectIdOrKey%2PAP&createdAfter%204-01-2021&appID%2;timeout=30;method=GET;httpProtocol=1.1;isKeepAlive=true;bodyEncoding=UTF-8;sendExpect100Continue=true;autoDetectResponseType=true;checkResponseTypeOnTestConnection=true;keyGenerationStrategy=0;authSchema=anonymous;skipServerCertificateValidation=false;useCertificate=No;certificateStoreLocation=LocalMachine;certificateStoreName=My;addMissingQueryParametersToFinalRequest=false;PaginationType=None;allowResponseHeaders=false;allowHttpsOnly=false;isCookieContainerEnabled=false;useProxy=false;proxyBypassOnLocal=false;proxyUseDefaultCredentials=true;\"",
+    "type": "QvRestConnector.exe",
+    "engineObjectId": "7820414c-a105-4756-9fdc-541fd467eb3a",
+    "username": "",
+    "logOn": 0,
+    "architecture": 0,
+    "tags": [],
+    "privileges": null,
+    "schemaPath": "DataConnection"
+  },
+  {
+    "id": "60b5633a-6d80-4c6d-bfac-5a2403f8e2ae",
+    "createdDate": "2021-05-09T12:01:23.290Z",
+    "modifiedDate": "2021-09-27T16:09:08.503Z",
+    "modifiedByUserName": "DE\\wmerriri",
+    "customProperties": [
+      {
+        "id": "eeaa68e5-f81e-435b-9c60-7cb030004fd8",
+        "createdDate": "2021-09-27T16:09:08.503Z",
+        "modifiedDate": "2021-09-27T16:09:08.503Z",
+        "modifiedByUserName": "DE\\wmerriri",
+        "value": "DE_JIRA",
+        "definition": {
+          "id": "d4dbd053-4f5e-49f5-b37b-3890c4c4144d",
+          "name": "DE_USER_GROUPE",
+          "valueType": "Text",
+          "choiceValues": [
+            "DE_QVD",
+            "DE_DWH",
+            "DE_USER_SOURCE",
+            "DE_BIG_QUERY",
+            "DE_DS_ACTIVATION_BLACKLIST",
+            "DE_QVD_FORMATION",
+            "DE_JIRA",
+            "DE_MONITORING",
+            "DE_SNOWFLAKE",
+            "DE_WEB_CONNECTOR"
+          ],
+          "privileges": null
+        },
+        "schemaPath": "CustomPropertyValue"
+      }
+    ],
+    "owner": {
+      "id": "a83b5e11-c087-4e46-ab49-48cd6af53238",
+      "userId": "wmerriri",
+      "userDirectory": "DE",
+      "userDirectoryConnectorName": "DE",
+      "name": "Wael Merriri",
+      "privileges": null
+    },
+    "name": "REST_JIRA_GIP (de_wmerriri)",
+    "connectionstring": "CUSTOM CONNECT TO \"provider=QvRestConnector.exe;url=http://localhost:5555/data?connectorID%2JIRAConnector&table%2IssuesAsRawXml&projectIdOrKey%2GIP&createdAfter%204-01-2021&appID%2;timeout=30;method=GET;httpProtocol=1.1;isKeepAlive=true;bodyEncoding=UTF-8;sendExpect100Continue=true;autoDetectResponseType=true;checkResponseTypeOnTestConnection=true;keyGenerationStrategy=0;authSchema=anonymous;skipServerCertificateValidation=false;useCertificate=No;certificateStoreLocation=LocalMachine;certificateStoreName=My;addMissingQueryParametersToFinalRequest=false;PaginationType=None;allowResponseHeaders=false;allowHttpsOnly=false;isCookieContainerEnabled=false;useProxy=false;proxyBypassOnLocal=false;proxyUseDefaultCredentials=true;\"",
+    "type": "QvRestConnector.exe",
+    "engineObjectId": "60b5633a-6d80-4c6d-bfac-5a2403f8e2ae",
+    "username": "",
+    "logOn": 0,
+    "architecture": 0,
+    "tags": [],
+    "privileges": null,
+    "schemaPath": "DataConnection"
+  },
+  {
+    "id": "2a42ee70-550e-46bb-8104-42e53164247c",
+    "createdDate": "2021-05-09T12:04:14.866Z",
+    "modifiedDate": "2021-09-27T16:08:54.108Z",
+    "modifiedByUserName": "DE\\wmerriri",
+    "customProperties": [
+      {
+        "id": "89384a80-ae67-4f94-9750-531724f1268e",
+        "createdDate": "2021-09-27T16:08:54.108Z",
+        "modifiedDate": "2021-09-27T16:08:54.108Z",
+        "modifiedByUserName": "DE\\wmerriri",
+        "value": "DE_JIRA",
+        "definition": {
+          "id": "d4dbd053-4f5e-49f5-b37b-3890c4c4144d",
+          "name": "DE_USER_GROUPE",
+          "valueType": "Text",
+          "choiceValues": [
+            "DE_QVD",
+            "DE_DWH",
+            "DE_USER_SOURCE",
+            "DE_BIG_QUERY",
+            "DE_DS_ACTIVATION_BLACKLIST",
+            "DE_QVD_FORMATION",
+            "DE_JIRA",
+            "DE_MONITORING",
+            "DE_SNOWFLAKE",
+            "DE_WEB_CONNECTOR"
+          ],
+          "privileges": null
+        },
+        "schemaPath": "CustomPropertyValue"
+      }
+    ],
+    "owner": {
+      "id": "a83b5e11-c087-4e46-ab49-48cd6af53238",
+      "userId": "wmerriri",
+      "userDirectory": "DE",
+      "userDirectoryConnectorName": "DE",
+      "name": "Wael Merriri",
+      "privileges": null
+    },
+    "name": "REST_JIRA_DOCW (de_wmerriri)",
+    "connectionstring": "CUSTOM CONNECT TO \"provider=QvRestConnector.exe;url=http://localhost:5555/data?connectorID%2JIRAConnector&table%2IssuesAsRawXml&projectIdOrKey%2DOCW&createdAfter%204-01-2021&appID%2;timeout=30;method=GET;httpProtocol=1.1;isKeepAlive=true;bodyEncoding=UTF-8;sendExpect100Continue=true;autoDetectResponseType=true;checkResponseTypeOnTestConnection=true;keyGenerationStrategy=0;authSchema=anonymous;skipServerCertificateValidation=false;useCertificate=No;certificateStoreLocation=LocalMachine;certificateStoreName=My;addMissingQueryParametersToFinalRequest=false;PaginationType=None;allowResponseHeaders=false;allowHttpsOnly=false;isCookieContainerEnabled=false;useProxy=false;proxyBypassOnLocal=false;proxyUseDefaultCredentials=true;\"",
+    "type": "QvRestConnector.exe",
+    "engineObjectId": "2a42ee70-550e-46bb-8104-42e53164247c",
+    "username": "",
+    "logOn": 0,
+    "architecture": 0,
+    "tags": [],
+    "privileges": null,
+    "schemaPath": "DataConnection"
+  },
+  {
+    "id": "7a4d3c1d-0c2e-463c-b846-9be7d878dd56",
+    "createdDate": "2021-05-09T12:05:43.295Z",
+    "modifiedDate": "2021-09-27T16:08:43.483Z",
+    "modifiedByUserName": "DE\\wmerriri",
+    "customProperties": [
+      {
+        "id": "7ad4513c-79e5-47fa-ba8d-2ebc176b0733",
+        "createdDate": "2021-09-27T16:08:43.483Z",
+        "modifiedDate": "2021-09-27T16:08:43.483Z",
+        "modifiedByUserName": "DE\\wmerriri",
+        "value": "DE_JIRA",
+        "definition": {
+          "id": "d4dbd053-4f5e-49f5-b37b-3890c4c4144d",
+          "name": "DE_USER_GROUPE",
+          "valueType": "Text",
+          "choiceValues": [
+            "DE_QVD",
+            "DE_DWH",
+            "DE_USER_SOURCE",
+            "DE_BIG_QUERY",
+            "DE_DS_ACTIVATION_BLACKLIST",
+            "DE_QVD_FORMATION",
+            "DE_JIRA",
+            "DE_MONITORING",
+            "DE_SNOWFLAKE",
+            "DE_WEB_CONNECTOR"
+          ],
+          "privileges": null
+        },
+        "schemaPath": "CustomPropertyValue"
+      }
+    ],
+    "owner": {
+      "id": "a83b5e11-c087-4e46-ab49-48cd6af53238",
+      "userId": "wmerriri",
+      "userDirectory": "DE",
+      "userDirectoryConnectorName": "DE",
+      "name": "Wael Merriri",
+      "privileges": null
+    },
+    "name": "REST_JIRA_CRONOS (de_wmerriri)",
+    "connectionstring": "CUSTOM CONNECT TO \"provider=QvRestConnector.exe;url=http://localhost:5555/data?connectorID%2JIRAConnector&table%2IssuesAsRawXml&projectIdOrKey%2CRONOS&createdAfter%204-01-2021&appID%2;timeout=30;method=GET;httpProtocol=1.1;isKeepAlive=true;bodyEncoding=UTF-8;sendExpect100Continue=true;autoDetectResponseType=true;checkResponseTypeOnTestConnection=true;keyGenerationStrategy=0;authSchema=anonymous;skipServerCertificateValidation=false;useCertificate=No;certificateStoreLocation=LocalMachine;certificateStoreName=My;addMissingQueryParametersToFinalRequest=false;PaginationType=None;allowResponseHeaders=false;allowHttpsOnly=false;isCookieContainerEnabled=false;useProxy=false;proxyBypassOnLocal=false;proxyUseDefaultCredentials=true;\"",
+    "type": "QvRestConnector.exe",
+    "engineObjectId": "7a4d3c1d-0c2e-463c-b846-9be7d878dd56",
+    "username": "",
+    "logOn": 0,
+    "architecture": 0,
+    "tags": [],
+    "privileges": null,
+    "schemaPath": "DataConnection"
+  }
+]
