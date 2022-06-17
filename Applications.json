@@ -1,1 +1,76 @@
-[]
+[
+  {
+    "id": "37a56409-32e6-44fc-8795-45720e40ed88",
+    "createdDate": "2021-07-16T10:36:51.699Z",
+    "modifiedDate": "2022-06-16T12:44:05.309Z",
+    "modifiedByUserName": "INTERNAL\\sa_scheduler",
+    "customProperties": [],
+    "owner": {
+      "id": "48949cb0-d564-4277-add1-bcdfb4e7de4a",
+      "userId": "sa_repository",
+      "userDirectory": "INTERNAL",
+      "userDirectoryConnectorName": null,
+      "name": "sa_repository",
+      "privileges": null
+    },
+    "name": "[RCV]-Suivi_Frais_Relance",
+    "appId": "",
+    "sourceAppId": "00000000-0000-0000-0000-000000000000",
+    "targetAppId": "00000000-0000-0000-0000-000000000000",
+    "publishTime": "2021-07-16T10:39:08.827Z",
+    "published": true,
+    "tags": [],
+    "description": "",
+    "stream": {
+      "id": "e7091673-69ae-4151-bbdb-6bda68cf3393",
+      "name": "RECOUVREMENT",
+      "privileges": null
+    },
+    "fileSize": 10353860,
+    "lastReloadTime": "2022-06-16T12:44:03.705Z",
+    "thumbnail": "/appcontent/37a56409-32e6-44fc-8795-45720e40ed88/Pieces_Relances.jpg",
+    "savedInProductVersion": "12.878.6",
+    "migrationHash": "504d4e39a7133ee172fbe29aa58348b1e4054149",
+    "dynamicColor": "",
+    "availabilityStatus": 1,
+    "privileges": null,
+    "schemaPath": "App"
+  },
+  {
+    "id": "d5feafd6-834b-4c73-baa8-e707e11f1a33",
+    "createdDate": "2021-09-13T10:25:49.549Z",
+    "modifiedDate": "2022-06-17T05:25:32.457Z",
+    "modifiedByUserName": "INTERNAL\\sa_scheduler",
+    "customProperties": [],
+    "owner": {
+      "id": "48949cb0-d564-4277-add1-bcdfb4e7de4a",
+      "userId": "sa_repository",
+      "userDirectory": "INTERNAL",
+      "userDirectoryConnectorName": null,
+      "name": "sa_repository",
+      "privileges": null
+    },
+    "name": "Résiliés 2.0 ( [RCV]-PERF-RECOUVREMENT)",
+    "appId": "",
+    "sourceAppId": "00000000-0000-0000-0000-000000000000",
+    "targetAppId": "00000000-0000-0000-0000-000000000000",
+    "publishTime": "2021-09-15T11:04:31.218Z",
+    "published": true,
+    "tags": [],
+    "description": "",
+    "stream": {
+      "id": "e7091673-69ae-4151-bbdb-6bda68cf3393",
+      "name": "RECOUVREMENT",
+      "privileges": null
+    },
+    "fileSize": 12129081,
+    "lastReloadTime": "2022-06-17T05:25:31.503Z",
+    "thumbnail": "/appcontent/d5feafd6-834b-4c73-baa8-e707e11f1a33/bur_recouvrement.jpg",
+    "savedInProductVersion": "12.878.6",
+    "migrationHash": "98d482c3f964dccf69cbfb9a00e0c048ea6eb221",
+    "dynamicColor": "",
+    "availabilityStatus": 5,
+    "privileges": null,
+    "schemaPath": "App"
+  }
+]
